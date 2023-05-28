@@ -1,0 +1,2 @@
+# Konceptualais_salidzinajums_OOP
+Konceptualais_salidzinajums_OOP
